@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
  - :egypt: I'm a self-taught passionate WEB developer from Egypt
  - :school: A senior student at STEM High School for Boys - 6th of October
  - :snake: Besides WEB dev, I love writing Python, and building automation and webscraping projects
- - :raising_hand_man: Know more about me [here](https://mikhaelrais.me/)
+ - :raising_hand_man: Know more about me through [mikhaelrais.me](https://mikhaelrais.me/)
 
 
 **Skills**
@@ -70,6 +70,6 @@ You can click the Preview link to take a look at your changes.
 <!-- Contact -->
 
 <div align="center">
- <a href="https://www.facebook.com/mikhael.mounay.75"><img src="https://img.shields.io/badge/-Mikhael%20Mounay-1877F2?logo=Facebook&logoColor=1877F2&style=social"></a> <a href="https://www.linkedin.com/in/mikhaelmounay/">=<img src="https://img.shields.io/badge/-Mikhael%20Mounay-0A66C2?logo=LinkedIn&logoColor=0A66C2&style=social"></a> <a href="https://t.me/MikhaelMounay"><img src="https://img.shields.io/badge/-MikhaelMounay-26A5E4?logo=Telegram&logoColor=26A5E4&style=social"></a>
+ <a href="https://www.facebook.com/mikhael.mounay.75"><img src="https://img.shields.io/badge/-Mikhael%20Mounay-1877F2?logo=Facebook&logoColor=1877F2&style=social"></a>&nbsp; <a href="https://www.linkedin.com/in/mikhaelmounay/"><img src="https://img.shields.io/badge/-Mikhael%20Mounay-0A66C2?logo=LinkedIn&logoColor=0A66C2&style=social"></a>&nbsp; <a href="https://t.me/MikhaelMounay"><img src="https://img.shields.io/badge/-MikhaelMounay-26A5E4?logo=Telegram&logoColor=26A5E4&style=social"></a>
 </div>
 <br>
