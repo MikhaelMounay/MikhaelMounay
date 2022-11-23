@@ -70,7 +70,6 @@ You can click the Preview link to take a look at your changes.
 <!-- Contact -->
 
 <div align="center">
- <img src="https://img.shields.io/static/v1?label=Facebook&message=Mikhael%20Mounay&color=1877F2">
- <img src="https://img.shields.io/badge/Facebook--1877F2?logo=Facebook&logoColor=white&style=flat-square&message=Mikhael%20Mounay">
+ <img src="https://img.shields.io/badge/%20-Mikhael%20Mounay-1877F2?logo=Facebook&logoColor=white&style=flat">
 </div>
 <br>
