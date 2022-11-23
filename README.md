@@ -27,4 +27,5 @@ I'm a self-taught passionate WEB developer from Egypt :egypt:
 
 <br>
 
-<a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat&color=black"></a>
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat">
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat">
