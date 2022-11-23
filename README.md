@@ -9,5 +9,5 @@ MikhaelMounay/MikhaelMounay is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=dark&border_color=30363d)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&layout=compact&show_icons=true&theme=dark&border_color=30363d)](https://github.com/MikhaelMounay?tab=repositories)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&border_color=30363d)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&layout=compact&show_icons=true&theme=transparent&border_color=30363d)](https://github.com/MikhaelMounay?tab=repositories)
