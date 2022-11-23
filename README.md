@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-| <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true" /></a> | <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&layout=compact&show_icons=true&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true" /></a> | <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
