@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&exclude_repo=YSJ,STEM-Egypt-Hack-Club-Website&layout=compact)](https://github.com/MikhaelMounay?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&exclude_repo=YSJ,STEM-Egypt-Hack-Club-Website,English_Revisions&layout=compact)](https://github.com/MikhaelMounay?tab=repositories)
