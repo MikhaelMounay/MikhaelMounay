@@ -40,8 +40,8 @@ I'm a self-taught passionate WEB developer from Egypt :egypt:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat)
 <br>
 <div align="center">
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat)
+ <span>![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)</span>
+ <span>![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat)</span>
 </div>
 
 <!-- <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat">
