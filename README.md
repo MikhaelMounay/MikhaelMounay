@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <h1 align="center">Hello, I'm Mikhael</h1> -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&fontColor=timeAuto&text=Hi,%20I'm%20Mikhael%20👋&fontSize=40&rotate=20&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&fontColor=timeAuto&text=Hi,%20I'm%20Mikhael%20👋&fontSize=30&rotate=10&fontAlign=70)
 
 <!-- I'm a self-taught passionate WEB developer from Egypt :egypt: -->
 
