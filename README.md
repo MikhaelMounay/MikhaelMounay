@@ -13,9 +13,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&border_color=30363d" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/MikhaelMounay?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&layout=compact&show_icons=true&theme=transparent&border_color=30363d" />
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&border_color=30363d)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&layout=compact&show_icons=true&theme=transparent&border_color=30363d)](https://github.com/MikhaelMounay?tab=repositories)
