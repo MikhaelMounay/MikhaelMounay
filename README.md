@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
- <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-SQL-003B57?logo=SQLite&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&logoColor=white&style=flat">
+ <img src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=XAMPP&logoColor=white&style=flat">
 </div>
 <br>
 
