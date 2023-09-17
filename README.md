@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 ### About me
  - :egypt: I'm a self-taught passionate WEB developer from Egypt
- - :school: A senior student at STEM High School for Boys - 6th of October
- - :snake: Besides WEB dev, I love writing Python, and building automation and webscraping projects
+ - :school: Ex-STEMer and undergraduate student at the American University in Cairo (AUC)
+ - :snake: Besides WEB dev, I love writing Python, and building automation and web scraping projects
  - :raising_hand_man: Know more about me through [**mikhaelrais.me**](https://mikhaelrais.me/)
 <br>
 
