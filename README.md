@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=flat">
 </div>
-<be>
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat">
