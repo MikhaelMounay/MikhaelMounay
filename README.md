@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
  - :egypt: I'm a self-taught passionate WEB developer from Egypt
  - :school: Ex-STEMer and undergraduate student at the American University in Cairo (AUC)
  - :snake: Besides WEB dev, I love writing Python, and building automation and web scraping projects
- - :raising_hand_man: Know more about me through [**mikhaelrais.me**](https://mikhaelrais.me/)
+ - :raising_hand_man: Know more about me through [**mikhaelrais.me**](https://mikhaelmounay.github.io/personal-website/)
 <br>
 
 ### Skills
