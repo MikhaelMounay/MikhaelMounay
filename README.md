@@ -32,6 +32,7 @@ You can click the Preview link to take a look at your changes.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)
 <br>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=flat)
