@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 
-<div>
+<div align="center">
  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat">
