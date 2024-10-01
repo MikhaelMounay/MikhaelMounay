@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @MikhaelMounay. Ex-STEMer and undergraduate student at the American University in Cairo (AUC).
 - 👀 I’m interested in Computer Engineering (mostly Web Development and Software Engineering)
-- 🌱 I’m currently learning JS frameworks (Vue JS & Nuxt JS) / Machine Learning
+- 🌱 I’m currently learning JS meta frameworks (Next.js & Nuxt.js) / Machine Learning
 - 📫 You can to reach me on [email](mailto:mikhaelmounay@gmail.com) / [facebook](https://www.facebook.com/mikhael.mounay.75) -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
@@ -18,21 +18,26 @@ You can click the Preview link to take a look at your changes.
 <!-- I'm a self-taught passionate WEB developer from Egypt :egypt: -->
 
 ### About me
- - :egypt: I'm a self-taught passionate WEB developer from Egypt
- - :school: Ex-STEMer and undergraduate student at the American University in Cairo (AUC)
- - :snake: Besides WEB dev, I love writing Python, and building automation and web scraping projects
- - :raising_hand_man: Know more about me through [**mikhaelrais.me**](https://mikhaelmounay.github.io/personal-website/)
+ - :egypt: I'm a self-taught passionate fullstack developer from Egypt
+ - :school: Undergraduate Computer Engineering student at the American University in Cairo (AUC) & Ex-STEMer
+ - :snake: Besides WEB dev, I love writing Python & Go, and building automation, web scraping, and internal tooling scripts
+ - :raising_hand_man: Know more about me through [**mikhaelkhalil.me**](https://mikhaelmounay.github.io/personal-website/)
 <br>
 
 ### Skills
 
 <!-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)
+<br>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=flat)
 <br>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=flat)
