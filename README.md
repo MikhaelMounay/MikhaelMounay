@@ -72,13 +72,13 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 
+<!--
 <div align="center">
  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat">
 </div>
 <br>
 
-<!--
 <div align="center">
  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Dart-0175C2?logo=Dart&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style=flat">
 </div>
@@ -91,7 +91,9 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <div align="center">
- <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat">
+ <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat">
+ <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat">
+ <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat">
 </div>
 
 <!-- GitHub Stats -->
