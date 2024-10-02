@@ -71,7 +71,7 @@
 
 <br>
 
-| <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true" /></a> | <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true&hide=html&langs_count=10&layout=compact" /></a> |
+| <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" /></a> | <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true&hide=html&langs_count=10&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <br>
