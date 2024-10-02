@@ -79,6 +79,14 @@
 <!-- Contact -->
 
 <div align="center">
- <a href="https://mikhaelmounay.github.io/personal-website/"><img src="https://img.shields.io/badge/Website-mikhaelkhalil.me-4285F4?logo=Google%20Chrome&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://www.linkedin.com/in/mikhaelmounay/"><img src="https://img.shields.io/badge/LinkedIn-Mikhael%20Mounay-0A66C2?logo=LinkedIn&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://www.facebook.com/mikhael.mounay.75"><img src="https://img.shields.io/badge/Facebook-Mikhael%20Mounay-1877F2?logo=Facebook&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://t.me/MikhaelMounay"><img src="https://img.shields.io/badge/Telegram-MikhaelMounay-26A5E4?logo=Telegram&logoColor=white&style=flat-square"></a>&nbsp; <a href="mailto:mikhaelmounay@gmail.com"><img src="https://img.shields.io/badge/Email-mikhaelmounay@gmail.com-EA4335?logo=Gmail&logoColor=white&style=flat-square"></a>
+ <a target="_blank" href="https://mikhaelmounay.github.io/personal-website/"><img src="https://img.shields.io/badge/Website-mikhaelkhalil.me-4285F4?logo=Google%20Chrome&logoColor=white&style=flat-square"></a>
+ &nbsp;
+ <a target="_blank" href="https://www.linkedin.com/in/mikhaelmounay/"><img src="https://img.shields.io/badge/LinkedIn-Mikhael%20Mounay-0A66C2?logo=LinkedIn&logoColor=white&style=flat-square"></a>
+ &nbsp;
+ <a target="_blank" href="https://www.facebook.com/mikhael.mounay.75"><img src="https://img.shields.io/badge/Facebook-Mikhael%20Mounay-1877F2?logo=Facebook&logoColor=white&style=flat-square"></a>
+ &nbsp;
+ <a target="_blank" href="https://t.me/MikhaelMounay"><img src="https://img.shields.io/badge/Telegram-MikhaelMounay-26A5E4?logo=Telegram&logoColor=white&style=flat-square"></a>
+ &nbsp;
+ <a target="_blank" href="mailto:mikhaelmounay@gmail.com"><img src="https://img.shields.io/badge/Email-mikhaelmounay@gmail.com-EA4335?logo=Gmail&logoColor=white&style=flat-square"></a>
 </div>
 <br>
