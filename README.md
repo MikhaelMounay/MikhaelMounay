@@ -62,6 +62,10 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=flat">
+</div>
+<br>
+
+<div align="center">
  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat">
