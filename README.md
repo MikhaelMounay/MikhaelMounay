@@ -4,18 +4,7 @@
 - 📫 You can to reach me on [email](mailto:mikhaelmounay@gmail.com) / [facebook](https://www.facebook.com/mikhael.mounay.75) -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
-<!---
-MikhaelMounay/MikhaelMounay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-<!-- <h1 align="center">Hello, I'm Mikhael</h1> -->
-
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&fontColor=timeAuto&text=Hi%20there%20👋,%20I'm%20Mikhael%20😁&fontSize=40&fontAlignY=55)
-
-<!-- I'm a self-taught passionate WEB developer from Egypt :egypt: -->
 
 ### About me
  - :egypt: I'm a self-taught passionate fullstack developer from Egypt
@@ -82,7 +71,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-| <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true" /></a> | <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=html" /></a> |
+| <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true" /></a> | <a href="https://github.com/MikhaelMounay?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelMounay&show_icons=true&theme=transparent&hide_border=true&layout=compact&hide=html&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 <br>
@@ -90,6 +79,6 @@ You can click the Preview link to take a look at your changes.
 <!-- Contact -->
 
 <div align="center">
- <a href="https://mikhaelmounay.github.io/personal-website/"><img src="https://img.shields.io/badge/Website-mikhaelrais.me-4285F4?logo=Google%20Chrome&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://www.linkedin.com/in/mikhaelmounay/"><img src="https://img.shields.io/badge/LinkedIn-Mikhael%20Mounay-0A66C2?logo=LinkedIn&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://www.facebook.com/mikhael.mounay.75"><img src="https://img.shields.io/badge/Facebook-Mikhael%20Mounay-1877F2?logo=Facebook&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://t.me/MikhaelMounay"><img src="https://img.shields.io/badge/Telegram-MikhaelMounay-26A5E4?logo=Telegram&logoColor=white&style=flat-square"></a>&nbsp; <a href="mailto:mikhaelmounay@gmail.com"><img src="https://img.shields.io/badge/Email-mikhaelmounay@gmail.com-EA4335?logo=Gmail&logoColor=white&style=flat-square"></a>
+ <a href="https://mikhaelmounay.github.io/personal-website/"><img src="https://img.shields.io/badge/Website-mikhaelkhalil.me-4285F4?logo=Google%20Chrome&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://www.linkedin.com/in/mikhaelmounay/"><img src="https://img.shields.io/badge/LinkedIn-Mikhael%20Mounay-0A66C2?logo=LinkedIn&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://www.facebook.com/mikhael.mounay.75"><img src="https://img.shields.io/badge/Facebook-Mikhael%20Mounay-1877F2?logo=Facebook&logoColor=white&style=flat-square"></a>&nbsp; <a href="https://t.me/MikhaelMounay"><img src="https://img.shields.io/badge/Telegram-MikhaelMounay-26A5E4?logo=Telegram&logoColor=white&style=flat-square"></a>&nbsp; <a href="mailto:mikhaelmounay@gmail.com"><img src="https://img.shields.io/badge/Email-mikhaelmounay@gmail.com-EA4335?logo=Gmail&logoColor=white&style=flat-square"></a>
 </div>
 <br>
